@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Long-Scanning-BLE</string>
+    <string name="notification_title">Service</string>
+    <string name="notification_message">A service is running</string>
+</resources>
